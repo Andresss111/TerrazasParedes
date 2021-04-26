@@ -2111,3 +2111,7 @@ ul.location_icon span {
 .logo1{
      width: 80px;
 }
+.img-box figure img{
+     border-radius: 100%;
+     width: 100%;
+}
